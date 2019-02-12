@@ -4,7 +4,7 @@ Supervised learning using Support Vector Machines on 2-dimensional datasets
 Notebooks:
 - svm-linear: SVM with a linear kernel
 
-Toolin used:
+Tools used:
 - Numpy
 - Pandas
 - Scikit-learn
